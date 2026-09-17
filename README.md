@@ -4,7 +4,7 @@
 
 ### Multi-Provider Email Orchestration & High-Deliverability Infrastructure
 
-[![Version](https://img.shields.io/badge/Version-1.0.0%20Enterprise-0A84FF.svg?style=for-the-badge)](releases/MailScale.EXE)
+[![Version](https://img.shields.io/badge/Version-3.0%20Enterprise-0A84FF.svg?style=for-the-badge)](releases/MailScale.EXE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)](releases/MailScale.EXE)
 [![Delivery Rating](https://img.shields.io/badge/Deliverability-98.5%25%20(Excellent)-30D158.svg?style=for-the-badge)](#deliverability--compliance)
 [![Compliance](https://img.shields.io/badge/Standards-RFC%208058%20%7C%20CAN--SPAM%20%7C%20GDPR-BF5AF2.svg?style=for-the-badge)](#deliverability--compliance)
