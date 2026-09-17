@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime & Databases (Prevent committing local databases or runtime configs)
+*.db
+*.sqlite
+*.sqlite3
+mailscale.db
+installation_id.json
+runtime/
+data/
+uploads/
+logs/
+*.log
+
+# Cryptographic Private Keys & Generator Tools
+*.pem
+*.key
+*.lic
+mailscale.lic
+KeyGen.exe
+keygen_gui.py
+
+# Packaging / Temporary Build Files
+build/
+dist/
+*.spec
+
+# IDE & Operating System Artifacts
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Explicitly track releases & binary distributions
+!releases/
+!releases/MailScale.EXE
+!releases/*.EXE
+!releases/*.exe
+!assets/
+!docs/

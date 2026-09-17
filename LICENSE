@@ -1,0 +1,28 @@
+Copyright (c) 2026 MailScale Systems. All Rights Reserved.
+
+PROPRIETARY COMMERCIAL SOFTWARE LICENSE & EVALUATION TERMS
+
+1. GRANT OF LICENSE:
+This repository and the binary distributions contained herein are provided under proprietary commercial terms. 
+Subject to the terms of this agreement, users are granted a limited, non-exclusive, non-transferable license 
+to execute the software in Free Evaluation Mode (up to 500 emails/day capacity) for testing and evaluation purposes. 
+Full enterprise capacity, priority features, and production high-volume operations require an authorized commercial 
+workstation license key issued by MailScale Systems.
+
+2. RESTRICTIONS:
+Except as expressly authorized in writing by the copyright holder, you may not:
+(a) Reverse engineer, decompile, disassemble, or derive the source code of this software;
+(b) Modify, adapt, translate, or create derivative works of the software;
+(c) Rent, lease, loan, resell, sublicense, or distribute the software or any portion thereof to any third party;
+(d) Circumvent, disable, or tamper with any technological licensing or authorization safeguards.
+
+3. DISCLAIMER OF WARRANTIES:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, 
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. THIRD-PARTY NOTICES:
+This software distribution may incorporate components and libraries licensed under permissible open-source terms 
+(including MIT, BSD, and Apache 2.0). All trademarks, registered trademarks, and copyrights are the property 
+of their respective owners.
