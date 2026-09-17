@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="releases/MailScale.EXE"><b>📥 Download MailScale.EXE (v3.0.)</b></a> •
   <a href="docs/architecture.md"><b>🏛️ Solution Architecture</b></a> •
   <a href="SECURITY.md"><b>🛡️ Security Overview</b></a> •
   <a href="CHANGELOG.md"><b>📜 Release Notes</b></a>
